@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 300px;
+}
+
+head {
+  text-align: center;
+    border-bottom: 300px;
+}
+h1 {
+    font-size: 20px;
+}
+h2 {
+    font-size: 20px;
+}
+body {
+    text-align: center;
+}
